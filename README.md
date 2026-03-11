@@ -32,13 +32,11 @@
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yildirim-alican&show_icons=true&theme=algolia&hide=html,css,jupyter%20notebook,jupyter,jupyter+notebook&border_radius=10&card_width=400&count_private=true&include_all_commits=true" height="250" alt="Overall Stats" />
       </td>
       <td width="50%" align="center">
-<img src="https://github-stats-card-generator.vercel.app/api/svg?username=yildirim-alican&type=languages&theme=github&chart=donut&hide=html,css,jupyter%20notebook,jupyter,jupyter+notebook&border_radius=10&card_width=400&count_private=true&include_all_commits=true" height="190" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yildirim-alican&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" />
       </td>
     </tr>
   </table>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=yildirim-alican&theme=algolia&show_icons=true)](https://github.com/yildirim-alican)
 
 <div align="center">
 
