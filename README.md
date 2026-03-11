@@ -38,7 +38,7 @@
   </table>
 </div>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=yildirim-alican&theme=algolia&show_icons=true)](https://github.com/yildirim-alican)
 
 <div align="center">
 
