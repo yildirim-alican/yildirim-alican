@@ -21,7 +21,6 @@
 ### 📊 GitHub Insights
 
 
-
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yildirim-alican&theme=algolia&border_radius=10&bg_color=0d1117&hide_border=true" width="100%" alt="Streak Stats" />
