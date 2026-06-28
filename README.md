@@ -14,7 +14,7 @@
 
 ### ☕ The Midnight Logic
 
-> **"Powered by dark coffee, guarded by Flying Spaghetti Monster, and writing code until the sun dares to rise."**
+> **"Powered by dark coffee, enchanted by black cats and writing code until the sun dares to rise."**
 
 ---
 
