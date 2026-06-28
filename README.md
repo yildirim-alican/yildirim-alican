@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Location-Latvia-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Istanbul-blue?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Building%20Future-success?style=flat-square&logo=target&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=yildirim-alican&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </div>
