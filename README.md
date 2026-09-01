@@ -20,8 +20,8 @@
 
 ### 📊 GitHub Insights
 
-
 <div align="center">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yildirim-alican&theme=algolia&border_radius=10&bg_color=0d1117&hide_border=true" width="100%" alt="Streak Stats" />
 
   <table border="0">
@@ -30,25 +30,20 @@
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yildirim-alican&show_icons=true&theme=algolia&hide=html,css,jupyter%20notebook,jupyter,jupyter+notebook&border_radius=10&card_width=400&count_private=true&include_all_commits=true" height="250" alt="Overall Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=yildirim-alican&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&border_radius=10&card_width=400&layout=compact&theme=algolia&show_icons=true" height="250" alt="Top Languages" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=yildirim-alican&hide=html,scss,stylus,blade,css,shell,batchfile,dockerfile,typescript&border_radius=10&card_width=400&layout=compact&theme=algolia&show_icons=true" height="250" alt="Top Languages" />
       </td>
     </tr>
   </table>
   
-  <table border="0">
-    <tr>
-      <td width="100%" align="center">
-        <img src="https://activity-graph.herokuapp.com/graph?username=yildirim-alican&theme=react-dark&border_radius=10&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
-      </td>
-    </tr>
-  </table>
 </div>
 
+<div align="center">
+  <img src="https://metrics.lecoq.io/yildirim-alican?template=classic&base=activity,community,repositories,metadata&config.timezone=Europe%2FRiga&theme=dark" width="100%" alt="Activity Overview" />
+</div>
 
+---
 
 ### 🌐 Digital Presence & Credentials
-
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yildirim-alican/" target="_blank">
@@ -61,4 +56,3 @@
     <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
