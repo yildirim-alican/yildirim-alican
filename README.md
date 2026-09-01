@@ -39,8 +39,7 @@
 
   <br />
 
-  <img src="https://ghchart.rshah.org/0d1117/yildirim-alican" width="100%" alt="GitHub Contribution Chart" />
-
+<img src="https://ghchart.rshah.org/2196f3/yildirim-alican" width="100%" alt="GitHub Contribution Chart" />
 </div>
 
 ---
