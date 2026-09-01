@@ -24,20 +24,22 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yildirim-alican&theme=algolia&border_radius=10&bg_color=0d1117&hide_border=true" width="100%" alt="Streak Stats" />
 
+  <br /><br />
+
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=yildirim-alican&show_icons=true&theme=algolia&hide=html,css,jupyter%20notebook,jupyter,jupyter+notebook&border_radius=10&card_width=400&count_private=true&include_all_commits=true" height="250" alt="Overall Stats" />
+        <img src="https://github-readme-stats-git-masterrst-anuraghazras-projects.vercel.app/api?username=yildirim-alican&show_icons=true&theme=algolia&hide=html,css,jupyter%20notebook,jupyter,jupyter+notebook&border_radius=10&card_width=400&count_private=true&include_all_commits=true" height="200" alt="Overall Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-git-masterrst-anuraghazras-projects.vercel.app/api/top-langs?username=yildirim-alican&hide=html,scss,stylus,blade,css,shell,batchfile,dockerfile,typescript&border_radius=10&card_width=400&layout=compact&theme=algolia&show_icons=true" height="250" alt="Top Languages" />
+        <img src="https://github-readme-stats-git-masterrst-anuraghazras-projects.vercel.app/api/top-langs?username=yildirim-alican&hide=html,scss,stylus,blade,css,shell,batchfile,dockerfile,typescript&border_radius=10&card_width=400&layout=compact&theme=algolia&show_icons=true" height="200" alt="Top Languages" />
       </td>
     </tr>
   </table>
-  
+
   <br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yildirim-alican&theme=react-dark&border_radius=10&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/0d1117/yildirim-alican" width="100%" alt="GitHub Contribution Chart" />
 
 </div>
 
